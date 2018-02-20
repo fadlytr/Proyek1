@@ -17,6 +17,6 @@ int main()
 	if ((x <= 100) && (x >= 0))
 		printf ("%d\n",x*2);
 	else 
-		printf ("Angka yang dimasukkan Harus 0 hingga 100");
+		printf ("Angka yang dimasukkan Harus 0 hingga 100 Yaa");
 	return 0;
 }
