@@ -9,7 +9,7 @@
 Program 		: Factorial.c
 Deskripsi 		: Recrusive
 Nama/NIM		: Fadly Triansyah Rahman/171524008
-versi/Tanggal	: 1/26 oktober 2017
+versi/Tanggal		: 1/26 oktober 2017
 Compiler		: Devc++ 5.11
 =======================================*/
 #include <stdio.h>
@@ -17,7 +17,7 @@ int main ()
 { /*deklarasi*/
 	int n,m, nilai;
   /*algoritma*/
-  nilai=1;
+  nilai=1000;
   scanf ("%d",&m);
   if (m>0)
   	{
